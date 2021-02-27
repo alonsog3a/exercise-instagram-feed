@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(206, 200, 200);
+    margin: 0;
+}
+
+header{
+    background-color: white;
+   
+}
+
+header h1{
+    margin: 0;
+}
+
+.card{
+    background-color: white;
+    
+    
+   
+}
+ 
+.comment{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding:10px 10px 10px 10px;
+    background-color: white;
+}
+
+div.container{
+    width: 500px;   
+    margin: auto;
+    padding-top: 30px;
+}
+
+div.title .title-header div:first-child{
+    display: inline-block;
+    width: 80%;
+    
+}
+
+div.title .title-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    
+}
+
+div{
+    box-sizing: border-box;
+}
+.title-header{
+    padding-left: 10px;
+}
+
